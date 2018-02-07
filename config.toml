@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "pastel"
+title = "pastel tumblr vomit"
+MetaDataFormat = "toml"
